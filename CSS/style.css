@@ -205,3 +205,8 @@ hr {
 #times h2 {
     color: white;
 }
+
+footer a {
+    color: #3a3a3a;
+    font-size: 280%;
+}
