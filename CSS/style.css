@@ -131,7 +131,6 @@ h2 {
 #center-about {
   width: 33%;
   margin: 0 auto;
-  background-color: green;
 }
 
 hr {
@@ -162,4 +161,20 @@ hr {
 
 .right-about-heading p {
     text-align: right;
+}
+
+#welcome {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 280%;
+}
+
+.ethos-image {
+    position: relative;
+    left: 155px;
+    top: 40px;
+    height: 300px;
+    width: 300px;
+    margin: 0 auto;
+    border-radius: 50%;
 }
